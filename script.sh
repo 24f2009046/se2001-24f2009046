@@ -1,0 +1,3 @@
+#!/bin/bash
+export GITHUB_USERNAME="24f2009046"
+export GITHUB_REPOSITORY="se2001-24f2009046"
